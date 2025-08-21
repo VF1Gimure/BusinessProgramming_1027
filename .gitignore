@@ -1,0 +1,11 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Ignore folders
+diagrams/
+to_Ignore/
+to_Ingnore/*
